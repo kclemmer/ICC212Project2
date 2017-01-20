@@ -1,5 +1,5 @@
-# ICS212Project2
+# ICS212Project1
 
-ICS 212 Project 2 - F2016
+ICS 212 Project 1 - F2016
 
-Basic C++ Project
+Basic C Project
